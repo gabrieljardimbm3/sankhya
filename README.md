@@ -1,2 +1,2 @@
-# sankhya
+# SANKHYA
 Projetos Sankhya BM3
